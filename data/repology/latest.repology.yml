@@ -1,0 +1,86 @@
+- repo: aur
+  srcname: feluda
+  binname: feluda
+  visiblename: feluda
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: newest
+  summary: Detect license usage restrictions in your project
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: feluda-bin
+  binname: feluda-bin
+  visiblename: feluda-bin
+  version: 1.16.0
+  origversion: 1.16.0-1
+  status: newest
+  summary: Detect license usage restrictions in your project
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: textproc/feluda
+  binname: feluda
+  visiblename: textproc/feluda
+  version: 1.16.0
+  origversion: 1.16.0_1
+  status: newest
+  summary: Detect license usage restrictions in a project
+  maintainers:
+    - nxjoseph@freebsd.org
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: feluda
+  visiblename: feluda
+  version: 1.16.0
+  origversion: null
+  status: newest
+  summary: Detect license usage restrictions in your project
+- repo: homebrew
+  srcname: feluda
+  visiblename: feluda
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Detect license usage restrictions in your project
+- repo: pkgsrc_2026_1
+  srcname: devel/feluda
+  binname: feluda
+  visiblename: devel/feluda
+  version: 1.11.1
+  origversion: null
+  status: outdated
+  summary: Detect license usage restrictions in your project
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/feluda
+  binname: feluda
+  visiblename: devel/feluda
+  version: 1.13.0
+  origversion: null
+  status: outdated
+  summary: Detect license usage restrictions in your project
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/feluda
+  binname: feluda
+  visiblename: devel/feluda
+  version: 1.16.0
+  origversion: null
+  status: newest
+  summary: Detect license usage restrictions in your project
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
