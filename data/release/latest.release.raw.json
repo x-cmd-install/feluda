@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5493276,
       "digest": "sha256:d8704f716e32cb3214e8be08deb6fa430e5b223b593667b28c276721acf8634e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-27T04:57:46Z",
       "updated_at": "2026-08-27T04:57:47Z",
       "browser_download_url": "https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5480880,
       "digest": "sha256:dd57c92a89af21bdaee82356aeed7c7ecf5b14c3fb9aef8dad20f2feb1871b23",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-08-27T04:56:41Z",
       "updated_at": "2026-08-27T04:56:41Z",
       "browser_download_url": "https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.deb"
