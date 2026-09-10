@@ -4,7 +4,7 @@
 
 Detect license usage restrictions in your project!
 
-![feluda](https://repo.x-cmd.io/feluda.svg)
+![feluda](https://repo.x-cmd.io/feluda.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install feluda
 - **最新版本**: `v1.16.0` (2026-08-27)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-08-27T04:50:51Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [feluda-v1.16.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.deb) | 5.2 MiB | `other` |
+| [feluda-v1.16.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.rpm) | 7.9 MiB | `other` |
+| [feluda-v1.16.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.deb) | 5.2 MiB | `other` |
+| [feluda-v1.16.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.rpm) | 7.7 MiB | `other` |
 
 ## 流行度
 
@@ -62,4 +70,4 @@ feluda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:05:19Z._

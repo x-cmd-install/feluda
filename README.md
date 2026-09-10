@@ -23,7 +23,15 @@ x install feluda
 - **Latest**: `v1.16.0` (2026-08-27)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 4
-- **Published**: 2026-08-27T04:50:51Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [feluda-v1.16.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.deb) | 5.2 MiB | `other` |
+| [feluda-v1.16.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.rpm) | 7.9 MiB | `other` |
+| [feluda-v1.16.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.deb) | 5.2 MiB | `other` |
+| [feluda-v1.16.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.rpm) | 7.7 MiB | `other` |
 
 ## Popularity
 
@@ -58,8 +66,8 @@ Total: **38,464** lines of code across **97** files in the top 5 languages.
 Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `feluda` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/feluda.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/feluda.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:29:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:14Z._
