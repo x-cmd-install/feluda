@@ -48,12 +48,12 @@ x install feluda
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 5 | 3 | 0 | 4 | 4 |
-| last60d | 2026-07-15 | 2 | 18 | 3 | 6 | 5 | 16 |
-| 90d | 2026-06-15 | 3 | 30 | 3 | 7 | 5 | 31 |
-| last180d | 2026-03-17 | 5 | 51 | 3 | 7 | 6 | 54 |
-| 360d | 2025-09-18 | 11 | 100 | 3 | 21 | 6 | 110 |
-| last720d | 2024-09-23 | 29 | 159 | 3 | 87 | 13 | 252 |
+| 30d | 2026-08-15 | 1 | 5 | 3 | 0 | 4 | 4 |
+| last60d | 2026-07-16 | 2 | 16 | 3 | 6 | 5 | 16 |
+| 90d | 2026-06-16 | 3 | 30 | 3 | 7 | 5 | 31 |
+| last180d | 2026-03-18 | 5 | 51 | 3 | 7 | 6 | 54 |
+| 360d | 2025-09-19 | 11 | 100 | 3 | 21 | 6 | 110 |
+| last720d | 2024-09-24 | 29 | 159 | 3 | 87 | 13 | 252 |
 
 ## Release 资产
 
@@ -64,14 +64,6 @@ x install feluda
 | [feluda-v1.16.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.deb) | 5.2 MiB | `other` |
 | [feluda-v1.16.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.rpm) | 7.7 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/feluda) 上共有 **8** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.16.0` | ✅ latest |
-
 ## 改进这些数据
 
 feluda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `feluda` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -81,4 +73,4 @@ feluda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:41:12Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:47:55Z._
