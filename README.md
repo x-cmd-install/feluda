@@ -42,18 +42,18 @@ Total: **40,368** lines of code across **100** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 162 · **Open PRs**: 1 · **Closed issues**: 89 · **Open issues**: 11 · **Commits**: 255
+- **Releases**: 29 · **Merged PRs**: 162 · **Open PRs**: 2 · **Closed issues**: 89 · **Open issues**: 11 · **Commits**: 255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 8 | 1 | 2 | 2 | 7 |
-| last60d | 2026-07-17 | 2 | 18 | 1 | 8 | 3 | 19 |
-| 90d | 2026-06-17 | 3 | 32 | 1 | 9 | 3 | 34 |
-| last180d | 2026-03-19 | 5 | 54 | 1 | 9 | 4 | 57 |
-| 360d | 2025-09-20 | 11 | 103 | 1 | 23 | 4 | 113 |
-| last720d | 2024-09-25 | 29 | 162 | 1 | 89 | 11 | 255 |
+| 30d | 2026-08-17 | 1 | 7 | 1 | 2 | 1 | 7 |
+| last60d | 2026-07-18 | 2 | 18 | 2 | 8 | 3 | 19 |
+| 90d | 2026-06-18 | 3 | 32 | 2 | 9 | 3 | 34 |
+| last180d | 2026-03-20 | 5 | 53 | 2 | 9 | 4 | 57 |
+| 360d | 2025-09-21 | 11 | 102 | 2 | 23 | 4 | 113 |
+| last720d | 2024-09-26 | 29 | 162 | 2 | 89 | 11 | 255 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:00:24Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:40:58Z._
