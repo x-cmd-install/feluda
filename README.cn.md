@@ -4,7 +4,7 @@
 
 Detect license usage restrictions in your project!
 
-[![x-cmd/install — feluda Code Quality Monitoring Repo Card](https://repo.x-cmd.io/feluda.svg?lang=zh)](https://x-cmd.com/install/feluda)
+[![x-cmd/install — feluda Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/feluda.svg?lang=zh)](https://x-cmd.com/install/feluda)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install feluda
 
 ## 流行度
 
-- **Star**: 472 · **Fork**: 30 · **开放 issue**: 103 · **贡献者**: 13
+- **Star**: 472 · **Fork**: 29 · **开放 issue**: 103 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 29 · **已合并 PR**: 165 · **开放 PR**: 3 · **已关闭 issue**: 91 · **开放 issue**: 12 · **提交数**: 258
+- **发布数**: 29 · **已合并 PR**: 165 · **开放 PR**: 2 · **已关闭 issue**: 91 · **开放 issue**: 12 · **提交数**: 258
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 9 | 2 | 3 | 3 | 8 |
-| last60d | 2026-07-24 | 2 | 18 | 3 | 9 | 4 | 19 |
-| 90d | 2026-06-24 | 3 | 33 | 3 | 10 | 4 | 34 |
-| last180d | 2026-03-26 | 4 | 53 | 3 | 11 | 5 | 58 |
-| 360d | 2025-09-27 | 9 | 100 | 3 | 24 | 5 | 112 |
-| last720d | 2024-10-02 | 29 | 165 | 3 | 91 | 12 | 258 |
+| 30d | 2026-08-24 | 1 | 9 | 1 | 3 | 3 | 8 |
+| last60d | 2026-07-25 | 2 | 18 | 2 | 9 | 4 | 19 |
+| 90d | 2026-06-25 | 3 | 33 | 2 | 10 | 4 | 34 |
+| last180d | 2026-03-27 | 4 | 53 | 2 | 11 | 5 | 58 |
+| 360d | 2025-09-28 | 9 | 100 | 2 | 24 | 5 | 112 |
+| last720d | 2024-10-03 | 29 | 165 | 2 | 91 | 12 | 258 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ feluda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:49:37Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:40:13Z._
