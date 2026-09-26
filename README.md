@@ -14,11 +14,11 @@ x install feluda
 
 ## Code insight
 
-Total: **43,045** lines of code across **106** files in the top 5 languages.
+Total: **43,042** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,955 | 1,378 | 4,935 | 65 |
+| Rust | 36,952 | 1,378 | 4,935 | 65 |
 | ReStructuredText | 4,340 | 0 | 1,882 | 35 |
 | Css | 630 | 81 | 103 | 1 |
 | Toml | 248 | 17 | 24 | 3 |
@@ -32,37 +32,37 @@ Total: **43,045** lines of code across **106** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.16.0` (2026-08-27)
-- **Last commit**: 2026-09-21
+- **Latest**: `v1.17.0` (2026-09-25)
+- **Last commit**: 2026-09-25
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 473 · **Forks**: 29 · **Open issues**: 103 · **Contributors**: 13
+- **Stars**: 477 · **Forks**: 29 · **Open issues**: 103 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 165 · **Open PRs**: 3 · **Closed issues**: 91 · **Open issues**: 12 · **Commits**: 258
+- **Releases**: 30 · **Merged PRs**: 167 · **Open PRs**: 2 · **Closed issues**: 91 · **Open issues**: 12 · **Commits**: 260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 9 | 2 | 3 | 3 | 8 |
-| last60d | 2026-07-27 | 1 | 18 | 3 | 9 | 4 | 19 |
-| 90d | 2026-06-27 | 2 | 32 | 3 | 10 | 4 | 34 |
-| last180d | 2026-03-29 | 4 | 53 | 3 | 11 | 5 | 58 |
-| 360d | 2025-09-30 | 9 | 100 | 3 | 24 | 5 | 112 |
-| last720d | 2024-10-05 | 29 | 165 | 3 | 91 | 12 | 258 |
+| 30d | 2026-08-27 | 2 | 10 | 1 | 3 | 3 | 10 |
+| last60d | 2026-07-28 | 2 | 19 | 2 | 9 | 4 | 21 |
+| 90d | 2026-06-28 | 3 | 34 | 2 | 10 | 4 | 36 |
+| last180d | 2026-03-30 | 5 | 54 | 2 | 11 | 5 | 60 |
+| 360d | 2025-10-01 | 10 | 102 | 2 | 24 | 5 | 114 |
+| last720d | 2024-10-06 | 30 | 167 | 2 | 91 | 12 | 260 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [feluda-v1.16.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.deb) | 5.2 MiB | `other` |
-| [feluda-v1.16.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-aarch64.rpm) | 7.9 MiB | `other` |
-| [feluda-v1.16.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.deb) | 5.2 MiB | `other` |
-| [feluda-v1.16.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.16.0/feluda-v1.16.0-x86_64.rpm) | 7.7 MiB | `other` |
+| [feluda-v1.17.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-aarch64.deb) | 5.3 MiB | `other` |
+| [feluda-v1.17.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-aarch64.rpm) | 8.0 MiB | `other` |
+| [feluda-v1.17.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-x86_64.deb) | 5.3 MiB | `other` |
+| [feluda-v1.17.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-x86_64.rpm) | 7.9 MiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:45:41Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:48:41Z._
