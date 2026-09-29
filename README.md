@@ -14,12 +14,12 @@ x install feluda
 
 ## Code insight
 
-Total: **43,042** lines of code across **106** files in the top 5 languages.
+Total: **43,841** lines of code across **107** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 36,952 | 1,378 | 4,935 | 65 |
-| ReStructuredText | 4,340 | 0 | 1,882 | 35 |
+| Rust | 37,718 | 1,388 | 4,983 | 66 |
+| ReStructuredText | 4,373 | 0 | 1,892 | 35 |
 | Css | 630 | 81 | 103 | 1 |
 | Toml | 248 | 17 | 24 | 3 |
 | Yaml | 186 | 7 | 32 | 2 |
@@ -33,7 +33,7 @@ Total: **43,042** lines of code across **106** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-29
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **43,042** lines of code across **106** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 167 · **Open PRs**: 2 · **Closed issues**: 91 · **Open issues**: 12 · **Commits**: 260
+- **Releases**: 30 · **Merged PRs**: 169 · **Open PRs**: 1 · **Closed issues**: 93 · **Open issues**: 10 · **Commits**: 262
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 9 | 1 | 3 | 3 | 9 |
-| last60d | 2026-07-30 | 2 | 17 | 2 | 9 | 4 | 18 |
-| 90d | 2026-06-30 | 3 | 33 | 2 | 10 | 4 | 32 |
-| last180d | 2026-04-01 | 5 | 54 | 2 | 11 | 5 | 59 |
-| 360d | 2025-10-03 | 10 | 102 | 2 | 24 | 5 | 111 |
-| last720d | 2024-10-08 | 30 | 167 | 2 | 91 | 12 | 260 |
+| 30d | 2026-08-30 | 1 | 11 | 1 | 3 | 3 | 11 |
+| last60d | 2026-07-31 | 2 | 19 | 1 | 10 | 3 | 20 |
+| 90d | 2026-07-01 | 3 | 34 | 1 | 11 | 3 | 34 |
+| last180d | 2026-04-02 | 5 | 56 | 1 | 12 | 4 | 61 |
+| 360d | 2025-10-04 | 10 | 103 | 1 | 25 | 4 | 113 |
+| last720d | 2024-10-09 | 30 | 169 | 1 | 93 | 10 | 262 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:13:00Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:34:52Z._
