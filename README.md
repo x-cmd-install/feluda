@@ -14,11 +14,11 @@ x install feluda
 
 ## Code insight
 
-Total: **50,311** lines of code across **113** files in the top 5 languages.
+Total: **50,550** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,940 | 1,577 | 5,540 | 72 |
+| Rust | 44,171 | 1,606 | 5,562 | 72 |
 | ReStructuredText | 4,621 | 0 | 1,951 | 35 |
 | Css | 630 | 81 | 103 | 1 |
 | Toml | 248 | 17 | 24 | 3 |
@@ -33,27 +33,27 @@ Total: **50,311** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-09-25)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 479 · **Forks**: 30 · **Open issues**: 103 · **Contributors**: 13
+- **Stars**: 482 · **Forks**: 31 · **Open issues**: 103 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 174 · **Open PRs**: 1 · **Closed issues**: 94 · **Open issues**: 9 · **Commits**: 267
+- **Releases**: 30 · **Merged PRs**: 176 · **Open PRs**: 0 · **Closed issues**: 95 · **Open issues**: 8 · **Commits**: 269
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 15 | 1 | 1 | 2 | 15 |
-| last60d | 2026-08-09 | 2 | 23 | 1 | 8 | 2 | 23 |
-| 90d | 2026-07-10 | 3 | 36 | 1 | 12 | 2 | 36 |
-| last180d | 2026-04-11 | 5 | 61 | 1 | 13 | 3 | 66 |
-| 360d | 2025-10-13 | 10 | 102 | 1 | 25 | 3 | 114 |
-| last720d | 2024-10-18 | 30 | 174 | 1 | 94 | 9 | 267 |
+| 30d | 2026-09-09 | 1 | 17 | 0 | 2 | 1 | 17 |
+| last60d | 2026-08-10 | 2 | 24 | 0 | 9 | 1 | 25 |
+| 90d | 2026-07-11 | 3 | 37 | 0 | 13 | 1 | 38 |
+| last180d | 2026-04-12 | 5 | 63 | 0 | 14 | 2 | 68 |
+| 360d | 2025-10-14 | 10 | 104 | 0 | 26 | 2 | 116 |
+| last720d | 2024-10-19 | 30 | 176 | 0 | 95 | 8 | 269 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:52:52Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:57:48Z._
