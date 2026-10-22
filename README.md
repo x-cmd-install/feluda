@@ -33,27 +33,27 @@ Total: **90,813** lines of code across **163** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-09-25)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-21
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 482 · **Forks**: 32 · **Open issues**: 103 · **Contributors**: 14
+- **Stars**: 482 · **Forks**: 35 · **Open issues**: 111 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 177 · **Open PRs**: 1 · **Closed issues**: 95 · **Open issues**: 8 · **Commits**: 270
+- **Releases**: 30 · **Merged PRs**: 178 · **Open PRs**: 6 · **Closed issues**: 95 · **Open issues**: 16 · **Commits**: 271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 11 | 1 | 0 | 0 | 12 |
-| last60d | 2026-08-22 | 2 | 21 | 1 | 5 | 1 | 21 |
-| 90d | 2026-07-23 | 3 | 31 | 1 | 12 | 1 | 31 |
-| last180d | 2026-04-24 | 5 | 62 | 1 | 14 | 2 | 65 |
-| 360d | 2025-10-26 | 9 | 101 | 1 | 26 | 2 | 111 |
-| last720d | 2024-10-31 | 30 | 177 | 1 | 95 | 8 | 270 |
+| 30d | 2026-09-22 | 1 | 12 | 6 | 0 | 8 | 13 |
+| last60d | 2026-08-23 | 2 | 22 | 6 | 5 | 9 | 22 |
+| 90d | 2026-07-24 | 3 | 31 | 6 | 12 | 9 | 32 |
+| last180d | 2026-04-25 | 5 | 62 | 6 | 14 | 10 | 66 |
+| 360d | 2025-10-27 | 9 | 102 | 6 | 26 | 10 | 112 |
+| last720d | 2024-11-01 | 30 | 178 | 6 | 95 | 16 | 271 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:31:53Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:30:07Z._
