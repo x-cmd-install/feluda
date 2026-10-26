@@ -4,7 +4,7 @@
   visiblename: feluda
   version: 1.17.0
   origversion: 1.17.0-1
-  status: newest
+  status: outdated
   summary: Detect license usage restrictions in your project
   maintainers:
     - lmartinez-mirror@aur
@@ -14,8 +14,8 @@
   srcname: feluda-bin
   binname: feluda-bin
   visiblename: feluda-bin
-  version: 1.17.0
-  origversion: 1.17.0-1
+  version: 1.18.0
+  origversion: 1.18.0-1
   status: newest
   summary: Detect license usage restrictions in your project
   maintainers:
@@ -28,7 +28,7 @@
   visiblename: textproc/feluda
   version: 1.17.0
   origversion: 1.17.0_1
-  status: newest
+  status: outdated
   summary: Detect license usage restrictions in a project
   maintainers:
     - nxjoseph@freebsd.org
@@ -37,7 +37,7 @@
 - repo: homebrew
   srcname: feluda
   visiblename: feluda
-  version: 1.17.0
+  version: 1.18.0
   origversion: null
   status: newest
   summary: Detect license usage restrictions in your project
@@ -78,7 +78,7 @@
   visiblename: devel/feluda
   version: 1.17.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Detect license usage restrictions in your project
   maintainers:
     - pkgsrc-users@netbsd.org
