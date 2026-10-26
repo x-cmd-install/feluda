@@ -32,8 +32,8 @@ x install feluda
 
 ## 发布
 
-- **最新版本**: `v1.17.0` (2026-09-25)
-- **最近提交**: 2026-10-22
+- **最新版本**: `v1.18.0` (2026-10-25)
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 4 个
 
 ## 流行度
@@ -42,35 +42,35 @@ x install feluda
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 186 · **开放 PR**: 2 · **已关闭 issue**: 99 · **开放 issue**: 12 · **提交数**: 279
+- **发布数**: 31 · **已合并 PR**: 187 · **开放 PR**: 2 · **已关闭 issue**: 99 · **开放 issue**: 12 · **提交数**: 280
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 18 | 2 | 3 | 5 | 16 |
-| last60d | 2026-08-26 | 2 | 30 | 2 | 9 | 5 | 28 |
-| 90d | 2026-07-27 | 2 | 39 | 2 | 16 | 5 | 37 |
-| last180d | 2026-04-28 | 5 | 68 | 2 | 18 | 6 | 73 |
-| 360d | 2025-10-30 | 9 | 109 | 2 | 26 | 6 | 118 |
-| last720d | 2024-11-04 | 30 | 186 | 2 | 99 | 12 | 279 |
+| 30d | 2026-09-26 | 1 | 19 | 2 | 3 | 5 | 17 |
+| last60d | 2026-08-27 | 3 | 30 | 2 | 9 | 5 | 29 |
+| 90d | 2026-07-28 | 3 | 39 | 2 | 16 | 5 | 38 |
+| last180d | 2026-04-29 | 6 | 69 | 2 | 18 | 6 | 74 |
+| 360d | 2025-10-31 | 10 | 110 | 2 | 26 | 6 | 119 |
+| last720d | 2024-11-05 | 31 | 187 | 2 | 99 | 12 | 280 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [feluda-v1.17.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-aarch64.deb) | 5.3 MiB | `other` |
-| [feluda-v1.17.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-aarch64.rpm) | 8.0 MiB | `other` |
-| [feluda-v1.17.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-x86_64.deb) | 5.3 MiB | `other` |
-| [feluda-v1.17.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.17.0/feluda-v1.17.0-x86_64.rpm) | 7.9 MiB | `other` |
+| [feluda-v1.18.0-aarch64.deb](https://github.com/anistark/feluda/releases/download/v1.18.0/feluda-v1.18.0-aarch64.deb) | 5.5 MiB | `other` |
+| [feluda-v1.18.0-aarch64.rpm](https://github.com/anistark/feluda/releases/download/v1.18.0/feluda-v1.18.0-aarch64.rpm) | 8.3 MiB | `other` |
+| [feluda-v1.18.0-x86_64.deb](https://github.com/anistark/feluda/releases/download/v1.18.0/feluda-v1.18.0-x86_64.deb) | 5.6 MiB | `other` |
+| [feluda-v1.18.0-x86_64.rpm](https://github.com/anistark/feluda/releases/download/v1.18.0/feluda-v1.18.0-x86_64.rpm) | 8.2 MiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/feluda) 上共有 **8** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/feluda) 上共有 **8** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.17.0` | ✅ latest |
+| Homebrew | `1.18.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ feluda 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T04:29:53Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T04:33:03Z._
