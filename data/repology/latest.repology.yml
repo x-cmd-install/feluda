@@ -26,9 +26,9 @@
   srcname: textproc/feluda
   binname: feluda
   visiblename: textproc/feluda
-  version: 1.17.0
-  origversion: 1.17.0_1
-  status: outdated
+  version: 1.18.0
+  origversion: null
+  status: newest
   summary: Detect license usage restrictions in a project
   maintainers:
     - nxjoseph@freebsd.org
