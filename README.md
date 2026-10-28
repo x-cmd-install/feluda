@@ -14,14 +14,14 @@ x install feluda
 
 ## Code insight
 
-Total: **92,194** lines of code across **165** files in the top 5 languages.
+Total: **93,022** lines of code across **166** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,552 | 2,249 | 5,674 | 75 |
+| Rust | 46,340 | 2,316 | 5,744 | 76 |
 | Svg | 18,640 | 310 | 0 | 21 |
 | Json | 18,571 | 0 | 0 | 14 |
-| ReStructuredText | 5,783 | 0 | 2,055 | 36 |
+| ReStructuredText | 5,807 | 0 | 2,065 | 36 |
 | Python | 1,502 | 68 | 117 | 19 |
 
 ## Source
@@ -33,7 +33,7 @@ Total: **92,194** lines of code across **165** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.0` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-27
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **92,194** lines of code across **165** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 187 · **Open PRs**: 2 · **Closed issues**: 99 · **Open issues**: 12 · **Commits**: 280
+- **Releases**: 31 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 99 · **Open issues**: 12 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 19 | 2 | 3 | 5 | 17 |
-| last60d | 2026-08-28 | 2 | 29 | 2 | 9 | 5 | 29 |
-| 90d | 2026-07-29 | 3 | 38 | 2 | 16 | 5 | 38 |
-| last180d | 2026-04-30 | 6 | 69 | 2 | 18 | 6 | 74 |
-| 360d | 2025-11-01 | 10 | 110 | 2 | 26 | 6 | 119 |
-| last720d | 2024-11-06 | 31 | 187 | 2 | 99 | 12 | 280 |
+| 30d | 2026-09-28 | 1 | 18 | 1 | 3 | 5 | 18 |
+| last60d | 2026-08-29 | 2 | 30 | 1 | 9 | 5 | 30 |
+| 90d | 2026-07-30 | 3 | 38 | 1 | 16 | 5 | 39 |
+| last180d | 2026-05-01 | 6 | 70 | 1 | 18 | 6 | 75 |
+| 360d | 2025-11-02 | 10 | 111 | 1 | 26 | 6 | 120 |
+| last720d | 2024-11-07 | 31 | 188 | 1 | 99 | 12 | 281 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **92,194** lines of code across **165** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/feluda). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/feluda). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:51:42Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:26:39Z._
