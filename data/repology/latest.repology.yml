@@ -76,9 +76,9 @@
   srcname: devel/feluda
   binname: feluda
   visiblename: devel/feluda
-  version: 1.17.0
+  version: 1.18.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Detect license usage restrictions in your project
   maintainers:
     - pkgsrc-users@netbsd.org
