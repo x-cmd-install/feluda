@@ -14,14 +14,14 @@ x install feluda
 
 ## Code insight
 
-Total: **94,463** lines of code across **170** files in the top 5 languages.
+Total: **95,573** lines of code across **173** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 47,731 | 2,332 | 5,898 | 80 |
+| Rust | 48,724 | 2,331 | 6,026 | 82 |
 | Svg | 18,640 | 310 | 0 | 21 |
 | Json | 18,571 | 0 | 0 | 14 |
-| ReStructuredText | 5,857 | 0 | 2,085 | 36 |
+| ReStructuredText | 5,974 | 0 | 2,131 | 37 |
 | Python | 1,502 | 68 | 117 | 19 |
 
 ## Source
@@ -42,18 +42,18 @@ Total: **94,463** lines of code across **170** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 194 · **Open PRs**: 2 · **Closed issues**: 100 · **Open issues**: 11 · **Commits**: 287
+- **Releases**: 31 · **Merged PRs**: 196 · **Open PRs**: 2 · **Closed issues**: 100 · **Open issues**: 11 · **Commits**: 289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 21 | 2 | 4 | 4 | 18 |
-| last60d | 2026-09-05 | 2 | 36 | 2 | 10 | 4 | 36 |
-| 90d | 2026-08-06 | 3 | 43 | 2 | 14 | 4 | 44 |
-| last180d | 2026-05-08 | 6 | 74 | 2 | 19 | 5 | 79 |
-| 360d | 2025-11-09 | 10 | 115 | 2 | 27 | 5 | 123 |
-| last720d | 2024-11-14 | 31 | 194 | 2 | 100 | 11 | 287 |
+| 30d | 2026-10-06 | 1 | 22 | 2 | 4 | 4 | 20 |
+| last60d | 2026-09-06 | 2 | 38 | 2 | 10 | 4 | 38 |
+| 90d | 2026-08-07 | 3 | 45 | 2 | 14 | 4 | 46 |
+| last180d | 2026-05-09 | 6 | 76 | 2 | 19 | 5 | 81 |
+| 360d | 2025-11-10 | 10 | 116 | 2 | 27 | 5 | 125 |
+| last720d | 2024-11-15 | 31 | 196 | 2 | 100 | 11 | 289 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:04:54Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:29:05Z._
