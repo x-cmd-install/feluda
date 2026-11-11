@@ -33,27 +33,27 @@ Total: **95,573** lines of code across **173** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.18.0` (2026-10-25)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-11
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 482 · **Forks**: 35 · **Open issues**: 111 · **Contributors**: 17
+- **Stars**: 483 · **Forks**: 35 · **Open issues**: 111 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 196 · **Open PRs**: 2 · **Closed issues**: 100 · **Open issues**: 11 · **Commits**: 289
+- **Releases**: 31 · **Merged PRs**: 198 · **Open PRs**: 2 · **Closed issues**: 100 · **Open issues**: 11 · **Commits**: 291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 20 | 2 | 4 | 4 | 19 |
-| last60d | 2026-09-11 | 2 | 37 | 2 | 7 | 4 | 34 |
-| 90d | 2026-08-12 | 3 | 43 | 2 | 11 | 4 | 42 |
-| last180d | 2026-05-14 | 6 | 76 | 2 | 19 | 5 | 81 |
-| 360d | 2025-11-15 | 10 | 112 | 2 | 26 | 5 | 120 |
-| last720d | 2024-11-20 | 31 | 196 | 2 | 100 | 11 | 289 |
+| 30d | 2026-10-12 | 1 | 22 | 2 | 4 | 4 | 21 |
+| last60d | 2026-09-12 | 2 | 37 | 2 | 7 | 4 | 36 |
+| 90d | 2026-08-13 | 3 | 44 | 2 | 11 | 4 | 44 |
+| last180d | 2026-05-15 | 6 | 78 | 2 | 19 | 5 | 83 |
+| 360d | 2025-11-16 | 10 | 113 | 2 | 26 | 5 | 122 |
+| last720d | 2024-11-21 | 31 | 198 | 2 | 100 | 11 | 291 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:04:54Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:58:26Z._
