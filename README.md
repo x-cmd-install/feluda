@@ -48,12 +48,12 @@ Total: **95,573** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 21 | 2 | 4 | 4 | 21 |
-| last60d | 2026-09-14 | 2 | 36 | 2 | 7 | 4 | 36 |
-| 90d | 2026-08-15 | 3 | 44 | 2 | 11 | 4 | 44 |
-| last180d | 2026-05-17 | 6 | 78 | 2 | 19 | 5 | 83 |
-| 360d | 2025-11-18 | 10 | 112 | 2 | 26 | 5 | 122 |
-| last720d | 2024-11-23 | 31 | 198 | 2 | 100 | 11 | 291 |
+| 30d | 2026-10-15 | 1 | 21 | 2 | 4 | 4 | 21 |
+| last60d | 2026-09-15 | 2 | 35 | 2 | 7 | 4 | 36 |
+| 90d | 2026-08-16 | 3 | 44 | 2 | 11 | 4 | 44 |
+| last180d | 2026-05-18 | 6 | 77 | 2 | 19 | 5 | 83 |
+| 360d | 2025-11-19 | 10 | 111 | 2 | 26 | 5 | 122 |
+| last720d | 2024-11-24 | 31 | 198 | 2 | 100 | 11 | 291 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:26:34Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:08:12Z._
