@@ -38,7 +38,7 @@ Total: **95,573** lines of code across **173** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 483 · **Forks**: 36 · **Open issues**: 111 · **Contributors**: 17
+- **Stars**: 483 · **Forks**: 37 · **Open issues**: 111 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **95,573** lines of code across **173** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 11 | 1 | 0 | 0 | 9 |
-| last60d | 2026-09-24 | 2 | 31 | 2 | 4 | 4 | 29 |
-| 90d | 2026-08-25 | 3 | 42 | 2 | 10 | 4 | 40 |
-| last180d | 2026-05-27 | 5 | 75 | 2 | 19 | 5 | 77 |
-| 360d | 2025-11-28 | 9 | 108 | 2 | 24 | 5 | 116 |
-| last720d | 2024-12-03 | 31 | 198 | 2 | 100 | 11 | 291 |
+| 30d | 2026-10-25 | 1 | 10 | 1 | 0 | 0 | 9 |
+| last60d | 2026-09-25 | 2 | 30 | 2 | 4 | 4 | 29 |
+| 90d | 2026-08-26 | 3 | 42 | 2 | 10 | 4 | 40 |
+| last180d | 2026-05-28 | 5 | 75 | 2 | 19 | 5 | 77 |
+| 360d | 2025-11-29 | 9 | 107 | 2 | 24 | 5 | 116 |
+| last720d | 2024-12-04 | 31 | 198 | 2 | 100 | 11 | 291 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for feluda lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:40:27Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:43:09Z._
